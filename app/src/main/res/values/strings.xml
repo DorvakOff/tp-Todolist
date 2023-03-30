@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="liste_des_todos_existants">Liste des todos existants</string>
+    <string name="lisview_menu_show_text">Voir le todo</string>
+    <string name="lisview_menu_modify_text">Modifier le todo</string>
+    <string name="lisview_menu_remove_text">Supprimer le todo</string>
+    <string name="main_menu_ajouter_todo_text">Ajouter un todo</string>
+    <string name="listview_menu_title">Choisir</string>
+    <string name="listview_menu_delete_todo_title">Supprimer vraiment ?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">ANNULER</string>
+    <string name="tv_titre_text">Titre :</string>
+    <string name="tv_note_text">"Todo : "</string>
+    <string name="tv_correspondant_text">En lien avec :</string>
+    <string name="tv_pour_text">Pour le :</string>
+    <string name="aff_but_quit_text">Quitter</string>
+    <string name="btn_ok_text">OK</string>
+    <string name="btn_annuler_text">Cancel</string>
+    <string name="dp_for_text">Due date :</string>
+    <string name="et_enter_todo_hint">Enter your todo</string>
+    <string name="et_enter_todo_text">Todo :</string>
+    <string name="et_enter_title_hint">Enter the title</string>
+    <string name="et_enter_title_text">Titlte :</string>
+    <string name="et_personnes_hint">People names…</string>
+    <string name="et_personnes_text">Linked to :</string>
+    <string name="et_comment_hint">Comment…</string>
+</resources>

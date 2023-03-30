@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_todoviewer_id"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="#FF909090" />
+    <TextView
+        android:id="@+id/tv_todoviewer_date_id"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="date" />
+    <TextView
+        android:id="@+id/tv_todoviewer_titre_id"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="titre" />
+    <TextView
+        android:id="@+id/tv_todoviewer_todo_id"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="id" />
+    <TextView
+        android:id="@+id/tv_todoviewer_wwcomment_id"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:text="wwccomment" />
+</LinearLayout>
